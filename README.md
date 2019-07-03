@@ -25,6 +25,7 @@ Trong nhung nam gan day viec tin hoc hoa nha truong da tro thanh kha pho bien o 
 
 **2.Thong tin du an**  
   **Google drive:** 
--		https://drive.google.com/drive/folders/1Tl8tacWyMwpyCvZqmYw9vtcr3c2smIfi
-	**Github:**
--		https://github.com/MinhTran1997/BaiTapNhom4/blob/master/README.md
+		https://drive.google.com/drive/folders/1Tl8tacWyMwpyCvZqmYw9vtcr3c2smIfi
+
+**Github:**
+		https://github.com/MinhTran1997/BaiTapNhom4/blob/master/README.md
