@@ -31,9 +31,9 @@ Trong nhung nam gan day viec tin hoc hoa nha truong da tro thanh kha pho bien o 
 		https://github.com/MinhTran1997/BaiTapNhom4/blob/master/README.md
 
 **4. Danh sach thanh vien**
-	* Tran Ngoc Minh
-	* Huynh Ngoc Khanh
-	* Tran Quang Vinh
-	* Nguyen Ngoc Uyen Phuong
-	* Pham Trung Hieu
+	  * Tran Ngoc Minh
+	  * Huynh Ngoc Khanh
+	  * Tran Quang Vinh
+	  * Nguyen Ngoc Uyen Phuong
+	  * Pham Trung Hieu
 	
