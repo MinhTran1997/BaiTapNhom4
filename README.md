@@ -21,7 +21,8 @@ Trong nhung nam gan day viec tin hoc hoa nha truong da tro thanh kha pho bien o 
 	  * Xem nhat ki muon theo thoi gian / theo nguoi
 -	 Goc do nguoi quan li
 	  * Dang nhap/Dang xuat
-	  * Quan ly tai khoan 
+	  * Quan ly tai khoan
+
 **2.Thong tin du an**  
   **Google drive:** 
 -		https://drive.google.com/drive/folders/1Tl8tacWyMwpyCvZqmYw9vtcr3c2smIfi
