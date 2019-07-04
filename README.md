@@ -30,7 +30,7 @@ Trong nhung nam gan day viec tin hoc hoa nha truong da tro thanh kha pho bien o 
 **Github:**
 		https://github.com/MinhTran1997/BaiTapNhom4/blob/master/README.md
 
-**3. Moi truong phat trien du an
+**3. Moi truong phat trien du an**
 	  * He dieu hanh: Windows
 	  * Ngon ngu lap trinh: Javascript, Java, SQL
 	  * IDE: Eclipse, Spring Tool Suite, SQL Server, Atom
