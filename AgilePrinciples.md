@@ -12,3 +12,9 @@ _ 3. Delivery frequently: thuong xuyen dua ra cac san pham phan mem cho khach ha
 - 5. Trust and support: Xây dựng dự án bằng cách tạo động lực cho mỗi cá nhân, tạo cho họ môi trường làm việc, hỗ trợ những gì họ cần và tin tưởng họ để hoàn thành dự án
 - 6. Face-to-face conversation: Phương pháp hiệu quả bậc nhất của việc truyền tải thông tin đến đội ngũ phát triển phần mềm là giao tiếp trực tiếp (mặt đối mặt)
 
+# STT: 3
+# Ten sinh vien: Pham Trung Hieu
+### Ten nguyen tac:
+- 7. Working Software: phan mem chay tot la thuoc do cua toc do.
+- 8. Sustainable development: cac quy trinh linh hoat thuc đay phat trien ben vung. Cac nha tai tro , nha phat trien, va ngưoi dung co the duy tri mot nhip do lien tuc khong gioi han.
+- 9. Continuous attention: lien tuc quan tam den cac ky thuat va thiet ke tot de gia tang su linh hoat
