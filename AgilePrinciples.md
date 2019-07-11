@@ -18,3 +18,10 @@ _ 3. Delivery frequently: thuong xuyen dua ra cac san pham phan mem cho khach ha
 - 7. Working Software: phan mem chay tot la thuoc do cua toc do.
 - 8. Sustainable development: cac quy trinh linh hoat thuc đay phat trien ben vung. Cac nha tai tro , nha phat trien, va ngưoi dung co the duy tri mot nhip do lien tuc khong gioi han.
 - 9. Continuous attention: lien tuc quan tam den cac ky thuat va thiet ke tot de gia tang su linh hoat
+
+# STT: 4
+Tên sinh viên: Nguyễn Ngọc Uyên Phương 
+Tên nguyên tắc:
+10. Maintain Simplicity (duy trì sự đơn giản): nghệ thuật tối đa hóa số lượng công việc không được thực hiện - là điều cần thiết.
+11. Self - organizing teams (nhóm tự tổ chức)  : các kiến trúc, yêu cầu và thiết kế tốt nhất xuất hiện từ các nhóm tự tổ chức
+12. Reflect and adjust (phản ánh và điều chỉnh): tại các khoảng thời gian đều đặn, nhóm phản ánh làm cách nào để trở nên hiệu quả hơn, sau đó điều chỉnh hành vi của nó cho phù hợp.
